@@ -4,6 +4,7 @@
 To run on your machine do the following:
 
 - Set up a database with the following tables:
+
 Table users with  <br>
 <img width="187" alt="Screen Shot 2022-08-28 at 21 41 18" src="https://user-images.githubusercontent.com/9487952/187089687-a82fb15d-cfc9-4f88-8add-acbe53e59e79.png">
 
