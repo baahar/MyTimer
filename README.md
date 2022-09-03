@@ -1,6 +1,6 @@
 I made this to see what I can make in a week with zero web engineering experience. It took me ten days. www.tusktimer.com is where a copy of the code lives. 
 
-ToDo: the up/down arrows and the clocks don't work on iOS. Need to figure out why. Probably worker threads?<br>
+ToDo: the up/down arrows <s>and the clocks</s> don't work on iOS. Need to figure out why. <s>Probably worker threads?</s>(Notifications are apparently not defined in iOS.)<br>
 ToDo: statistics page to show graphs and also export data as CSV
 
 # TaskTimer
