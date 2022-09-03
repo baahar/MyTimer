@@ -1,3 +1,8 @@
+I made this to see what I can make in a week with zero web engineering experience. It took me ten days. www.tusktimer.com is where a copy of the code lives. 
+
+ToDo: the up/down arrows and the clocks don't work on iOS. Need to figure out why. Probably worker threads?
+ToDo: statistics page to show graphs and also export data as CSV
+
 # TaskTimer
  A timer app that prominently features the overall time spent on tasks. Using PHP, JavaScript, JQuery and MySQL.
 
